@@ -8,7 +8,7 @@ A few unique features of this script:
 
 To use this script:
 
-(very rough, from emmeber, as I don't recall exactly how this part was done):
+(very rough, from memory, as I don't recall exactly how this part was done):
 
 - Create a NetBoot image
 - Open/convert the image read/write
